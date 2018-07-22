@@ -1,6 +1,5 @@
 {
   "name": "Test"
-  "version": "0.0.0",
   "main": "bot.js",
   "scripts": {
     "start": "note bot.js"
