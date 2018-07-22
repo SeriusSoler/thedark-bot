@@ -1,15 +1,11 @@
 {
-  "name": "thedarkbot",
-  "version": "1.0.0",
-  "requires": true,
-  "dependencies": {
-      "version": "1.0.0",
-    },
-    "discord.js": {
-      "version": "11.3.2",
-      "requires": {
-        "long": "4.0.0",
-        "prism-media": "0.0.2",
-        "snekfetch": "3.6.4",
-        "tweetnacl": "1.0.0",
-        "ws": "4.1.0"
+  "name": "thedark-bot"
+  "version": "0.0.1"
+  "description": "Test Discord Bot"
+  "main": "bot.js",
+  "scripts": {
+    "test": ""
+  }
+  "author": "Señor Soler"
+  "license": "I5C"
+}
