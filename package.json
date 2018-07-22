@@ -1,11 +1,10 @@
 {
-  "name": "thedark-bot"
-  "version": "0.0.1"
-  "description": "Test Discord Bot"
-  "main": "bot.js",
+  "name": "quote",
+  "version": "1.0.0",
+  "description": "bot.js",
   "scripts": {
     "test": ""
-  }
-  "author": "Señor Soler"
-  "license": "I5C"
+  },
+  "author": "",
+  "license": "ISC"
 }
