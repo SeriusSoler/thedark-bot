@@ -1,13 +1,11 @@
 {
-  "name": "Test"
-  "description" "Test",
-  "version": "1.2.6",
-  "main": "bot.js",
-  "scripts": {
-    "start": "note bot.js"
-  },
+  "name": "thedarkbot",
+  "version": "1.0.0",
+  "lockfileVersion": 1,
+  "requires": true,
   "dependencies": {
-    "discord.js": "11.1.0"
-    "request" "2.81.0"
-  }
-}
+    "async-limiter": {
+      "version": "1.0.0",
+      "resolved": "https://registry.npmjs.org/async-limiter/-/async-limiter-1.0.0.tgz",
+      "integrity": "sha512-jp/uFnooOiO+L211eZOoSyzpOITMXx1rBITauYykG3BRYPu8h0UcxsPNB04RR5vo4Tyz3+ay17tR6JVf9qzYWg=="
+    },
